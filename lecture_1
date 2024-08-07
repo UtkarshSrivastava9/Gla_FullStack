@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Resume</h1>
+    <a href="https://glauniversity.in:8085 "  target="_blank">College
+    </a>
+    <div>div1
+        <br>
+        <a href="https://www.google.co.in/">google<br></a>
+    </div>
+    <h3><hr><hr>Skills</h3>
+    <ol>
+        <li>s1</li>
+        <li>s2</li>
+        <li>s3</li>
+        <li>s4
+            <ul>
+                <li>s4.1</li>
+                <li>s4.2</li>
+                <li>s4.3</li>
+            </ul>
+        </li>
+    </ol>
+    <br>
+    <div>div2</div>
+    <div>div3</div>
+</body>
+</html>
